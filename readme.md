@@ -26,11 +26,11 @@ We welcome contributions from the community! If you have a coding tip, a photogr
 
 ## Feedback
 
-Your feedback is valuable! If you have suggestions, bug reports, or just want to say hello, don't hesitate to [open an issue](link-to-issues).
+Your feedback is valuable! If you have suggestions, bug reports, or just want to say hello, don't hesitate to [open an issue](https://github.com/ShubhKakkar/BinaryFocus/issues).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](link-to-license) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
 
 ---
 
