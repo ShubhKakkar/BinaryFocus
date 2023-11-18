@@ -1,0 +1,39 @@
+{
+  "name": "binaryfocus",
+  "version": "1.0.0",
+  "description": "Explore the intersection of code and creativity in our blog where programming meets photography. Discover insightful tutorials, coding tips, and Adobe Photoshop tricks to enhance your skills. Join a community of tech and visual enthusiasts on a journey through the lens of innovation.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "programming",
+    "photography",
+    "coding",
+    "web",
+    "development",
+    "software",
+    "engineering",
+    "photoshop",
+    "tutorials",
+    "creative",
+    "coding",
+    "code",
+    "tutorials",
+    "developer",
+    "community",
+    "visual",
+    "arts",
+    "tech",
+    "innovation",
+    "coding",
+    "tips",
+    "digital",
+    "creativity",
+    "software",
+    "craftsmanship"
+  ],
+  "author": "Shubham Kakkar",
+  "license": "ISC"
+}
